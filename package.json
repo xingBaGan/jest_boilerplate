@@ -17,6 +17,6 @@
     "jest": "^27.5.1"
   },
   "dependencies": {
-    "corejs": "^1.0.0"
+    "core-js": "^3.21.1"
   }
 }
